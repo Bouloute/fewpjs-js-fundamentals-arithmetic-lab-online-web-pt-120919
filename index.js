@@ -1,4 +1,4 @@
-let multiply = num1 * num2;
+let multiply = 2 * 31;
 
 let random = Math.floor(Math.random() * 10) + 1;
 
